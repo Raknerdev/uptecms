@@ -1,0 +1,21 @@
+.banner{
+  height: 60px;
+  max-height: 60px;
+  margin: auto;
+}
+
+.banner-img {
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.carrusel{
+    height: 25rem;
+}
+
+.carrusel img{
+    width: 100%;
+    height: 25rem;
+    max-height: 25rem;
+}
